@@ -1,0 +1,9 @@
+.header{
+  background-color: aqua;
+  cursor: grab;
+}
+.footer{
+  background-color: brown;
+ 
+}
+/*  CSS ki aie property jo 2 word m ateey h toh wo inline css m camel case m hojayegi*/
